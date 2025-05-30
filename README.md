@@ -8,7 +8,7 @@
   <a href="https://www.codechef.com/users/adityaking56"><img src="https://img.shields.io/badge/CodeChef-brown?logo=codechef&style=for-the-badge" /></a>
   <a href="mailto:adityakumarsingh9031@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
 </p>
-
+ 
 ---
 
 # 👋 Hi, I’m **Aditya Kumar Singh!**
