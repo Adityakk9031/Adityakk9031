@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&width=435&lines=Hi+I'm+Aditya+Kumar+Singh!;Full+Stack+Developer;Tech+Enthusiast+%F0%9F%9A%80;Open+Source+Contributor." />   
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&width=435&lines=Hi+I'm+Aditya+Kumar+Singh!;Full+Stack+Developer;Tech+Enthusiast+%F0%9F%9A%80;Open+Source+Contributor." />    
 </p>
 
 <p align="center">
@@ -13,16 +13,19 @@
 
 # 👋 Hi, I’m **Aditya Kumar Singh!**
 
-I'm a passionate developer who loves building **scalable systems**, solving **algorithmic problems**, and creating delightful user experiences.  
-Constantly exploring new technologies and striving to turn ideas into reality through code.
+I'm a passionate developer who loves building **scalable systems**, solving **algorithmic problems**, and creating delightful user experiences. Constantly exploring new technologies and striving to turn ideas into reality through code.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adityakk9031/Adityakk9031/main/building.png" alt="Building Illustration" width="600"/>
+</p>
 
 ---
  
 ### 🧠 About Me
 
-- 💻 **Current Focus:** Full Stack Development, System Design, and Cloud Infrastructure  
-- 📘 **Currently Learning:** Advanced React, Distributed Systems, and Kubernetes  
-- 🤝 **Looking to Collaborate On:** Scalable web apps, real-time systems, open-source tools  
+- 💻 **Current Focus:** Full Stack Development, System Design, and Cloud Infrastructure  
+- 📘 **Currently Learning:** Advanced React, Distributed Systems, and Kubernetes  
+- 🤝 **Looking to Collaborate On:** Scalable web apps, real-time systems, open-source tools  
 - ⚡ **Fun Fact:** I once coded a complete app overnight before a hackathon demo!
 
 ---
@@ -72,55 +75,70 @@ Constantly exploring new technologies and striving to turn ideas into reality th
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<p align="left">
-  <strong>Operating Systems:</strong><br>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
-  <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/> </a>
+---
+
+### 🚀 Projects
+
+#### EdTech AI Platform | React, Flask, RAG, GenAI, LangChain
+- Created educational content generation using Retrieval-Augmented Generation (RAG) architecture
+- Implemented automated video lecture creation and intelligent quiz generation with GenAI
+- Built personalized learning roadmaps using AI-driven recommendation algorithms
+- Integrated web scraping with LangChain for dynamic academic content aggregation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adityakk9031/Adityakk9031/main/coding.png" alt="Coding Penguin" width="400"/>
 </p>
+
+---
+
+### 🤖 AI & Machine Learning
+
+- **Python & TensorFlow:** Building and deploying deep learning models for computer vision and NLP.
+- **PyTorch & Scikit-learn:** Implementing advanced ML algorithms and neural network architectures.
+- **LangChain & LangGraph:** Developing complex AI agents with workflow orchestration and tool integration.
+- **RAG Systems:** Building Retrieval-Augmented Generation for knowledge-based applications.
+- **OpenCV & Computer Vision:** Advanced image processing, OCR, and real-time video analysis.
+- **Generative AI:** GPT-4, Gemini API integration for intelligent content generation and chatbots.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adityakk9031/Adityakk9031/main/ai-ml.png" alt="AI and Machine Learning" width="500"/>
+</p>
+
 ---
 
 ### 🎓 Education
 
-**Bennett University**, Greater Noida, India  
-*B.Tech in Computer Science & Engineering* (2022 – 2026)  
+**Bennett University**, Greater Noida, India  
+*B.Tech in Computer Science & Engineering* (2022 – 2026)  
 📊 CGPA: **8.27** (Till 5th Semester)
 
-**Holy Cross School**, India  
-- CBSE (Class XII), 📅 2020 – 2022 — **81%**  
+**Holy Cross School**, India  
+- CBSE (Class XII), 📅 2020 – 2022 — **81%**  
 - CBSE (Class X), 📅 2019 – 2020 — **87%**
 
 ---
 
 ### 💼 Work Experience
 
-**FullStack BU** — *Team Member*  
-📅 Dec 2023 – Present  
-- 🚀 Improved UI latency by **15%** through React + GraphQL optimization  
-- 🧠 Actively contributed in Agile sprints and daily standups  
+**FullStack BU** — *Team Member*  
+📅 Dec 2023 – Present  
+- 🚀 Improved UI latency by **15%** through React + GraphQL optimization  
+- 🧠 Actively contributed in Agile sprints and daily standups  
 - ✅ Conducted **50+ code reviews**, reducing bugs by **10%**
 
-**Digi Club – Holy Cross School** — *Vice President*  
-📅 Oct 2020 – 2022  
-- ⚙️ Automated feedback system using Python, saving **30%** admin effort  
+**Digi Club – Holy Cross School** — *Vice President*  
+📅 Oct 2020 – 2022  
+- ⚙️ Automated feedback system using Python, saving **30%** admin effort  
 - 📈 Built real-time analytics dashboards with Django & Chart.js
 
 ---
 
 ### 🏆 Extracurricular Achievements
 
-- 🧠 **Top 10%** on LeetCode with **400+** problems solved  
-- 🏅 Placed **78th / 400+ teams** in Smart India Hackathon (SIH)  
-- 🚀 Placed **6th / 90+ teams** in Aptos Hackathon  
+- 🧠 **Top 10%** on LeetCode with **400+** problems solved  
+- 🏅 Placed **78th / 400+ teams** in Smart India Hackathon (SIH)  
+- 🚀 Placed **6th / 90+ teams** in Aptos Hackathon  
 - 🎯 Advanced to Round 2 of Flipkart Grid
-
----
-
-### 📜 Certifications
-
-- ✅ *Algorithmic Toolbox* – Coursera (2024)  
-- ✅ *The Bits and Bytes of Computer Networking* – Coursera (2023)  
-- ✅ *React Advanced* – Coursera (2024)
 
 ---
 
@@ -131,16 +149,14 @@ Constantly exploring new technologies and striving to turn ideas into reality th
 
 ---
 
-### 🔄 Recent GitHub Activity
-
-📈 Contribution Graph  
+📈 Contribution Graph  
 ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Adityakk9031&theme=radical)
 
 ---
 
 ### 📇 Contact
 
-- 📧 Email: [adityakumarsingh9031@gmail.com](mailto:adityakumarsingh9031@gmail.com)  
+- 📧 Email: [adityakumarsingh9031@gmail.com](mailto:adityakumarsingh9031@gmail.com)  
 - 📞 Phone: [+91-8809522106](tel:+918809522106)
 
 ---
