@@ -133,10 +133,10 @@ Constantly exploring new technologies and striving to turn ideas into reality th
 
 ### 🔄 Recent GitHub Activity
 
-📈 Contribution Graph  
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Adityakk9031&theme=radical)
-
----
+📈 **Contribution Graph**
+<p align="center">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Adityakk9031&theme=radical&area=true" alt="Contribution Graph" />
+</p>
 
 ### 📇 Contact
 
